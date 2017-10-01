@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.tmp
+target*
+dependency-reduced-pom.xml
+*.swp
+release.properties
